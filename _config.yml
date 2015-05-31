@@ -1,0 +1,18 @@
+encoding: utf-8
+
+permalink : /:categories/:title.html
+markdown: kramdown
+baseurl: /ssi
+
+# paginate: 5
+# paginate_path: "page:num"
+# paginate_path: "page:num"
+paginate: 5
+paginate_path: "page_:num"
+
+##首页头部信息
+indet_title: BigData - 开放，分享与协作
+index_keyword: 开源网站,共同开发,ElasticSearch 教程,Java 教程,Hadoop 教程,Hive 教程,HBase 教程,Storm 教程,Spark 教程,Kafka 教程
+index_description: 大数据，协作开发，
+index_author: https://github.com/nlpgz/test
+
